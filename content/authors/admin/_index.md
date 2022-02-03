@@ -1,27 +1,21 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests include history of economics and financial economics, history of financial regulation, and recently and quantitative history. 
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Master: Introduction to the economics of science
+    institution: Paris I Pantheon-Sorbonne University
+    year: 2020-2022
+email: "thomdelcey@hotmail.fr"
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- History of monetary and financial economics
+- History of financial regulation. 
+- Quantitative history. 
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Duke University 
+  url: https://hope.econ.duke.edu/
+role: 2021-2022 fellow of the Center for History of Political Economy
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +25,18 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ThomDelcey
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?hl=fr&user=BTGediIAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/tdelcey
 superuser: true
-title: Alice Bighetti (吳恩達)
+title: Thomas Delcey
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an economic historian with special interest for the history of ideas in the XXth century. My research focused primarily on the history of financial economics. I use both qualitative methods (content analysis, oral history, private and administrative archives) and quantitative methods (bibliometric analysis, text mining). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv" "newtab" >}}C.V.{{< /staticref >}}
