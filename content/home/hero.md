@@ -1,6 +1,8 @@
 ---
 widget: hero
 headless: true
+# Activate this widget? true/false
+active: false
 weight: 10
 title: Hugo Academic Theme
 hero_media: hero-academic.png

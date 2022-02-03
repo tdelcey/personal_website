@@ -1,44 +1,38 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: Hayek and the Efficient Market Hypothesis (EMH) are often seen as proposing a similar theory of prices. Hayek is seen as proposing to understand prices as information conveyer, incorporating information during the process of competition, while EMH is defined as the fact that all information in a market is integrated into assets prices. This paper explains how a lineage between Hayek and the EMH can be illustrated while taking into account these differences. We particularly want to shed light on the homogeneous shift that can be identified in the epistemology of Hayek and the EMH. We conclude that this shift fleshes out the understanding that some authors have of neoliberalism.
+
+#author_notes:
+#- Equal contribution
+#- Equal contribution
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Nathanaëm Colin
+date: "2022-02-01T00:00:00Z"
+doi: "https://doi.org/10.1080/1350178X.2019.1675896"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
-projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+#projects: []
+publication: '*Journal of Economic Methodology, 27*(2)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2019-10-01T00:00:00Z"
+#slides: 
+summary: 
 tags:
 - Source Themes
-title: An example journal article
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+title: When efficient market hypothesis meets Hayek on information
+#url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+#url_dataset: ""
+#url_pdf: https://www.tandfonline.com/doi/full/10.1080/1350178X.2019.1675896
+#url_poster: ""
+#url_project: ""
+#url_slides: ""
+#url_source: ""
+#url_video: ""
 ---
 
 {{% callout note %}}
