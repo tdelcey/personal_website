@@ -28,7 +28,7 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/ThomDelcey
-- icon: graduation-cap
+- icon: google-scholar
   icon_pack: fas
   link: https://scholar.google.com/citations?user=BTGediIAAAAJ&hl=fr&oi=ao
 - icon: github
@@ -38,6 +38,6 @@ superuser: true
 title: Thomas Delcey
 ---
 
-I am a 2021-2022 fellow of the Center for the History of Political Economy at Duke University. My research 
+I am a 2021-2022 fellow of the Center for the History of Political Economy at Duke University. This website is still under construction. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv" "newtab" >}}C.V.{{< /staticref >}}
