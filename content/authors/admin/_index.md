@@ -8,7 +8,7 @@ education:
     year: 2021
   - course: Master Economie et Sciences Humaines
     institution: Université Paris I Pantheon-Sorbonne 
-    year: 2022
+    year: 2016
 email: "thomdelcey@hotmail.fr"
 highlight_name: true
 interests:
