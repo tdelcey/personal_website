@@ -5,8 +5,8 @@ abstract:
 authors: 
 - admin
 - Guillaume Noblet
-date: "2022-02-07T00:00:00Z"
-doi: "http://dx.doi.org/10.2139/ssrn.3938209 "
+date: "2021-10-07T00:00:00Z"
+#doi: "http://dx.doi.org/10.2139/ssrn.3938209 "
 featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
@@ -21,11 +21,11 @@ publication: ""
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2021-10-01T00:00:00Z"
+publishDate: "2022-02-01T00:00:00Z"
 slides: 
 summary: 
 tags:
-- Source Themes
+#- Source Themes
 title: The Eyes and the Ears of Agricultural Market
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
