@@ -6,16 +6,13 @@ authors:
 - admin
 - Guillaume Noblet
 date: "2021-10-07T00:00:00Z"
-#doi: "http://dx.doi.org/10.2139/ssrn.3938209 "
+doi: "http://dx.doi.org/10.2139/ssrn.3938209 "
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Radio Broadcast**](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011441048&view=1up&seq=198&skin=2021)'
   focal_point: ""
   preview_only: false
-#links:
-#- name: Custom Link
-#url: http://example.org
-#projects:
+#projects: []
 #- internal-project
 publication: ""
 publication_short: ""
@@ -25,11 +22,15 @@ publishDate: "2022-02-01T00:00:00Z"
 slides: 
 summary: 
 tags:
-#- Source Themes
+- Information
+- Radio broadcast
+- Market regulation
+- Early financial economics
+- Agricultural economics
 title: The Eyes and the Ears of Agricultural Market
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
-url_pdf: https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3938209_code2647849.pdf?abstractid=3938209&mirid=1 
+#url_pdf: ""
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""

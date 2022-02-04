@@ -7,7 +7,7 @@ abstract: This paper investigates the polysemic character of the Efficient Marke
 authors:
 - admin
 date: "2019-10-01T00:00:00Z"
-#doi: "https://doi.org/10.4000/oeconomia.5300"
+doi: "https://doi.org/10.4000/oeconomia.5300"
 featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -22,11 +22,13 @@ publishDate: "2022-02-01T00:00:00Z"
 #slides: 
 summary: 
 tags:
-#- Source Themes
+- the efficient market hypothesis
+- expertise
+- Business School
 title: Samuelson vs Fama on the Efficient Market Hypothesis, The Point of View of Expertise
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: ""
-url_pdf: https://journals.openedition.org/oeconomia/5300#quotation
+url_pdf: https://journals.openedition.org/oeconomia/pdf/5300
 #url_poster: ""
 #url_project: ""
 #url_slides: ""

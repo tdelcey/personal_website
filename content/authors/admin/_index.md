@@ -1,6 +1,5 @@
 ---
-bio: My research interests include history of financial economics.
-  matter.
+bio:
 education:
   courses:
   - course: Ph.D in economics 
@@ -14,6 +13,7 @@ highlight_name: true
 interests:
 - History of financial economics
 - Quantitative history
+- Methodology of Economics
 organizations:
 - name: Duke university
   url: https://hope.econ.duke.edu/
@@ -28,8 +28,8 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/ThomDelcey
-- icon: google-scholar
-  icon_pack: fas
+- icon: "google-scholar"
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=BTGediIAAAAJ&hl=fr&oi=ao
 - icon: github
   icon_pack: fab
