@@ -36,7 +36,3 @@ url_pdf: https://journals.openedition.org/oeconomia/pdf/5300
 #url_video: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to import publication metadata
-{{% /callout %}}
-

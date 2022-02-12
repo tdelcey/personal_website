@@ -38,6 +38,8 @@ superuser: true
 title: Thomas Delcey
 ---
 
-I am a 2021-2022 fellow of the Center for the History of Political Economy at Duke University. This website is still under construction. 
+I am a historian of economics. My research aims at tracing the evolution of economic thought of financial markets through the 20th century. I use qualitative data (content analysis, private and administrative archives, oral history) and, more recently, quantitative data (bibliometric analysis and text mining). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv" "newtab" >}}C.V.{{< /staticref >}}
+I completed a Ph.D. in economics at the University of Paris I Panthéon Sorbonne in 2021; I am currently a post-doctoral fellow at the Center for Political Economy at Duke University. I work currently on three projects: I study the emergence of American economic thought of speculation and its regulation during the interwar period. I am writting the history of the concept of bubbles, with a special focus on the tulip mania. Finally, I am building quantitative tools for measuring the impact of business schools on contemporary economics. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}C.V.{{< /staticref >}}

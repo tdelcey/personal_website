@@ -11,7 +11,7 @@ date: "2022-01-01T00:00:00Z"
 #doi: ""
 featured: true
 image:
-  caption: '[Summer (1985)](https://www.jstor.org/stable/2327785)'
+  caption: '[**Summer (1985)**](https://www.jstor.org/stable/2327785)'
   focal_point: ""
   preview_only: false
 #projects: []
@@ -23,7 +23,9 @@ publishDate: "2022-02-01T00:00:00Z"
 #slides: 
 summary: 
 tags:
-#- Source Themes
+- the efficient market hypothesis 
+- rational expectations 
+- yield curve 
 title: The Efficient Market Hypothesis and Rational Expectations Macroeconomics.
   How Did They Meet and Live (Happily) Ever After?
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
@@ -36,7 +38,4 @@ title: The Efficient Market Hypothesis and Rational Expectations Macroeconomics.
 #url_video: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to import publication metadata
-{{% /callout %}}
 
