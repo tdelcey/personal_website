@@ -1,0 +1,52 @@
+---
+always_allow_html: yes
+title: "Becoming an economist : the evolution of PhD through the 20th century"
+author: Thomas Delcey
+date: '2021-02-26'
+slug: phd-dissertation
+categories:
+  - this tag is a test
+tags:
+  - this tag is a test
+subtitle: ''
+summary: 'This post is a test'
+authors: []
+lastmod: '2021-02-26T18:02:29+01:00'
+featured: no
+draft: no
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: ["biblionetwork","networkflow"]
+
+###
+### Bibliography settings
+###
+bibliography: bibliography.bib
+#csl:  chicago-author-date.csl
+suppress-bibliography: false
+link-citations: true
+color-links: true # See https://ctan.org/pkg/xcolor for colors
+linkcolor: teal
+urlcolor: blue
+citecolor: red
+endnote: false
+---
+
+Ce projet a pour ambition de construire une base de donnée originale des thèses soutenues en
+économie aux États-Unis, en France, et en Angleterre tout au long du 20ème siècle. L’objectif
+est de construire des données bibliométrique (métadonnées, abstracts, références, citations)
+permettant des analyses descriptives (analyse de réseaux des directeurs, des universités) et
+des analyses bibliométriques plus sophistiquées (clustering, text-mining)

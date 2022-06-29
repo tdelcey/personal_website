@@ -5,7 +5,7 @@
     <link>https://www.thomasdelcey.com/publication-type/2/</link>
       <atom:link href="https://www.thomasdelcey.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.thomasdelcey.com/media/icon_hu391432bcd521265ae178b0ed70dae074_8718_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,29 +13,27 @@
     </image>
     
     <item>
-      <title>When efficient market hypothesis meets Hayek on information</title>
-      <link>https://www.thomasdelcey.com/publication/journal-article/delcey_colin_2020/</link>
+      <title>The Efficient Market Hypothesis and Rational Expectations Macroeconomics. How Did They Meet and Live (Happily) Ever After?</title>
+      <link>https://www.thomasdelcey.com/publication/delcey_sergi_2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.thomasdelcey.com/publication/delcey_sergi_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Efficient Market Hypothesis Meets Hayek on Information</title>
+      <link>https://www.thomasdelcey.com/publication/delcey_colin_2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.thomasdelcey.com/publication/journal-article/delcey_colin_2020/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://www.thomasdelcey.com/publication/delcey_colin_2020/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Samuelson vs Fama on the Efficient Market Hypothesis, The Point of View of Expertise</title>
-      <link>https://www.thomasdelcey.com/publication/journal-article/delcey_2019/</link>
+      <link>https://www.thomasdelcey.com/publication/delcey_2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.thomasdelcey.com/publication/journal-article/delcey_2019/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://www.thomasdelcey.com/publication/delcey_2019/</guid>
+      <description></description>
     </item>
     
   </channel>
